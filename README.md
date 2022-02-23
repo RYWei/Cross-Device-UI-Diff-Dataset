@@ -8,20 +8,8 @@
 
 ## The directory tree of the dataset
 
-""
-├── BaiduApp
-│   ├── diff
-│   ├── label.csv
-│   └── same
-├── BaiduNetdisk
-│   ├── diff
-│   ├── label.csv
-│   └── same
-└── BaiduTieba
-    ├── diff
-    ├── label.csv
-    └── same
-""
+<img src="http://bj.bcebos.com/newicheck/20220223/123456-020f3848656598115349a6455ef315c2" width="233" >
+
     
 * _./diff/_: There is difference in the image
 * _./same/_: There is no difference in the image
