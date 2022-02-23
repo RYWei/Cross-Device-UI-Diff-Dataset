@@ -11,9 +11,9 @@
 <img src="http://bj.bcebos.com/newicheck/20220223/123456-020f3848656598115349a6455ef315c2" width="233" >
 
     
-* _./diff/_: There is difference in the image
-* _./same/_: There is no difference in the image
-* _.label.csv_: The type and location of the difference label. Each row in label.csv represents the information of a pair of images, which is composed of 4 fields:
+* ___./diff/___: There is difference in the image
+* ___./same/___: There is no difference in the image
+* ___.label.csv___: The type and location of the difference label. Each row in label.csv represents the information of a pair of images, which is composed of 4 fields:
   * base image path
   * test image path
   * whether there is difference
