@@ -8,7 +8,19 @@
 
 ## The directory tree of the dataset
 
-<img src="http://bj.bcebos.com/newicheck/20220223/123456-020f3848656598115349a6455ef315c2" width="233" >
+|── BaiduApp </br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |── diff</br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |── label.csv</br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |── same</br>
+|── BaiduNetdisk</br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |── diff</br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |── label.csv</br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |── same</br>
+|── BaiduTieba</br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |── diff</br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |── label.csv</br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |── same</br>
+
 
     
 * ___./diff/___: There is difference in the image
