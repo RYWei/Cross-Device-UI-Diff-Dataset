@@ -8,6 +8,7 @@
 
 ## The directory tree of the dataset
 
+""
 ├── BaiduApp
 │   ├── diff
 │   ├── label.csv
@@ -20,7 +21,12 @@
     ├── diff
     ├── label.csv
     └── same
+""
     
-- diff: There is difference in the image
-- same: There is no difference in the image
-- label.csv: The type and location of the difference label. Each row in label.csv represents the information of a pair of images, which is composed of 4 fields: base image path, test image path, whether there is difference, and the type and location information of difference area 
+* _./diff/_: There is difference in the image
+* _./same/_: There is no difference in the image
+* _.label.csv_: The type and location of the difference label. Each row in label.csv represents the information of a pair of images, which is composed of 4 fields:
+  * base image path
+  * test image path
+  * whether there is difference
+  * the type and location information of difference area 
