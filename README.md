@@ -5,11 +5,27 @@
   
   The dataset was obtained from Baidu Netdisk, Baidu App, and Baidu Tieba. 23, 24, and 18 pages were respectively captured from the three Apps on ten different devices. The entire dataset contains 725 pairs of screenshots, of which 424 pairs have visual differences and 301 pairs have no visual differences.
  
- App Name | App Version | Scene Page | Android Devices | Number of pictures
+ App Name | App Version | Scene Page | Number of Devices | Number of pictures
  :-------:|:-----------:|:----------:|:---------------:|:------------------:|
  Baidu NetDisk | 11.16.3 | 23 | 10 | 230
  Baidu App | 13.2.0.10 | 24 | 10 | 240
  Baidu Tieba | 12.17.1.0 | 18 | 9 | 162
+ 
+ 
+ Device Information Sheet
+ 
+  Device Name | OS Version | Resolution  | Screen Size(inch)
+ :-----------:|:----------:|:-----------:|:-----------------:|
+ HuaweiP30 | Harmony 2.0 | 1080*2340 | 6.1 
+ HuaweiP40Pro | Harmony 2.0 | 1200*2640 | 6.58 
+ Xiaomi11 | Android 11.0 | 1440*3200 | 6.81 
+ Xiaomi10 | Android 10.0 | 1080*2400 | 6.67 
+ HuaweiP20 | Android 10.0 | 1080*2244 | 5.8 
+ HonorV20 | Android 10.0 | 1080*2310 | 6.4 
+ HonorV40 | Android 10.0 | 1236*2676 | 6.72
+ Xiaomi8 | Android 9.0 | 1080*2248 | 6.21
+ HonorV10 | Android 8.0 | 1080*2160 | 5.99 
+ HonorV8 | Android 7.0 | 1080*2244 | 5.7 
  
   
 
