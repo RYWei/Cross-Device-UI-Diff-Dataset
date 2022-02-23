@@ -6,4 +6,4 @@
   The dataset was obtained from Baidu Netdisk, Baidu App, and Baidu Tieba. 23, 24, and 18 pages were respectively captured from the three Apps on ten different devices. The entire dataset contains 725 pairs of screenshots, of which 424 pairs have visual differences and 301 pairs have no visual differences.
   
 
-# The directory tree of the dataset
+## The directory tree of the dataset
