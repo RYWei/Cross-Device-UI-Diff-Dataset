@@ -1,6 +1,6 @@
 # Cross-Diveces UI Diff Dataset
 
-  This dataset is presented by the article: ***Cross-Device Difference Detector for Mobile Application GUI Compatibility Testing***. If you use this dataset, please quote the following information: *Ren Y, Gu Y, Ma Z, et al. Cross-Device Difference Detector for Mobile Application GUI Compatibility Testing[C]//2022 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW). IEEE, 2022: 253-260.*
+  This dataset is presented by the article: [***Cross-Device Difference Detector for Mobile Application GUI Compatibility Testing***](https://www.computer.org/csdl/proceedings-article/icstw/2022/962800a253/1E2wtNUTP1e). If you use this dataset, please quote the following information: *Ren Y, Gu Y, Ma Z, et al. Cross-Device Difference Detector for Mobile Application GUI Compatibility Testing[C]//2022 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW). IEEE, 2022: 253-260.*
 
   We collected and marked some screenshots of different devices on the same App page to study cross-device GUI problems. This dataset is used for cross-device compatibility testing research and cross-device regression testing.
   
